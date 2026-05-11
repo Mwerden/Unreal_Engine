@@ -1,9 +1,0 @@
-APPLICATION,com.YourCompany.SunTemple2/com.epicgames.unreal.SplashActivity #Benchmark package name in unreal.
-OUTPUT_FILE_PATH,/data/data/com.YourCompany.SunTemple2/.outputPerf.csv #Path where Simpleperf saves the raw dta 
-OUTPUT_FILE_NAME,.outputPerf.csv #Name of the OUtput file pulled from phone
-DURATION,240
-INTERVAL,10 
-TESTS,raw-l3d-cache-refill,raw-l3d-cache,raw-l1i-cache,raw-l1d-cache,instructions,raw-l2d-cache,raw-l1i-cache-refill,raw-mem-access,raw-l2d-cache-refill,raw-l1d-cache-refill, branch-misses
-LOOPSorDURATION,DURATION ,"#determines if the test will be a fixed time or number of loops"
-SCREENSHOT_PATH,/sdcard/Android/data/com.YourCompany.SunTemple2/files/UnrealGame/SunTemple2/SunTemple2/Saved/Screenshots/Android/,,
-CPU_CORE,100 #CPU core or which core is run
