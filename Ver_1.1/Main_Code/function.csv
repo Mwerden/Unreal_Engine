@@ -1,0 +1,49 @@
+Range: 0 seconds to 4 minutes 16.1 seconds.
+
+Functions:
+
+Function Name,# Self: Samples,% Self: Samples,# Total: Samples,% Total: Samples,Instances,Stack Frame,Size,Location,Image
+<unknown code in libUnreal.so>,"20,390",40.09%,"32,775",64.45%,28,0,-,libUnreal.so,libUnreal.so
+<unknown code in libc.so>,"15,161",29.81%,"57,655",100.00%,205,0,-,libc.so,libc.so
+<unknown code in libGLES_mali.so>,"11,457",22.53%,"17,199",33.82%,18,0,-,libGLES_mali.so,libGLES_mali.so
+<unknown code in libart.so>,578,1.14%,694,1.36%,20,0,-,libart.so,libart.so
+<unknown code in libz.so>,395,0.78%,399,0.78%,2,0,-,libz.so,libz.so
+<unknown code in libGPUCounters.so>,347,0.68%,811,1.59%,13,0,-,libGPUCounters.so,libGPUCounters.so
+<unknown code in [vdso]>,340,0.67%,340,0.67%,24,0,-,[vdso],[vdso]
+<unknown code in libgui.so>,321,0.63%,"2,242",4.41%,18,0,-,libgui.so,libgui.so
+<unknown code in kernel>,300,0.59%,300,0.59%,132,0,-,kernel,kernel
+<unknown code in libEGL.so>,193,0.38%,580,1.14%,3,0,-,libEGL.so,libEGL.so
+<unknown code in memfd:jit-cache (deleted)>,193,0.38%,858,1.69%,9,0,-,memfd:jit-cache (deleted),memfd:jit-cache (deleted)
+<unknown code in libutils.so>,168,0.33%,"3,333",6.55%,33,0,-,libutils.so,libutils.so
+<unknown code in libaudioclient.so>,166,0.33%,965,1.90%,2,0,-,libaudioclient.so,libaudioclient.so
+<unknown code in libbinder.so>,102,0.20%,"1,250",2.46%,20,0,-,libbinder.so,libbinder.so
+<unknown code in libheapprofd_standalone_client.so>,88,0.17%,88,0.17%,8,0,-,libheapprofd_standalone_client.so,libheapprofd_standalone_client.so
+<unknown code in libswappy.so>,79,0.16%,"1,424",2.80%,6,0,-,libswappy.so,libswappy.so
+<unknown code in libcutils.so>,66,0.13%,103,0.20%,22,0,-,libcutils.so,libcutils.so
+<unknown code in libm.so>,59,0.12%,59,0.12%,6,0,-,libm.so,libm.so
+<unknown code in libGLESv3.so>,56,0.11%,56,0.11%,1,0,-,libGLESv3.so,libGLESv3.so
+<unknown code in libandroid.so>,51,0.10%,"1,249",2.46%,15,0,-,libandroid.so,libandroid.so
+<unknown code in libandroid_runtime.so>,49,0.10%,"2,432",4.78%,18,0,-,libandroid_runtime.so,libandroid_runtime.so
+<unknown code in libc++.so>,48,0.09%,301,0.59%,29,0,-,libc++.so,libc++.so
+<unknown code in android.hardware.graphics.mapper@4.0-impl.so>,36,0.07%,139,0.27%,2,0,-,android.hardware.graphics.mapper@4.0-impl.so,android.hardware.graphics.mapper@4.0-impl.so
+<unknown code in libui.so>,30,0.06%,217,0.43%,8,0,-,libui.so,libui.so
+<unknown code in libdl.so>,28,0.06%,42,0.08%,4,0,-,libdl.so,libdl.so
+<unknown code in libwilhelm.so>,24,0.05%,222,0.44%,2,0,-,libwilhelm.so,libwilhelm.so
+<unknown code in libgralloctypes.so>,23,0.05%,59,0.12%,4,0,-,libgralloctypes.so,libgralloctypes.so
+<unknown code in libhidlbase.so>,18,0.04%,36,0.07%,9,0,-,libhidlbase.so,libhidlbase.so
+<unknown code in linker64>,18,0.04%,18,0.04%,6,0,-,linker64,linker64
+<unknown code in android.hardware.graphics.mapper@4.0.so>,9,0.02%,156,0.31%,3,0,-,android.hardware.graphics.mapper@4.0.so,android.hardware.graphics.mapper@4.0.so
+<unknown code in libaudioclient_aidl_conversion.so>,9,0.02%,9,0.02%,1,0,-,libaudioclient_aidl_conversion.so,libaudioclient_aidl_conversion.so
+<unknown code in libnativedisplay.so>,9,0.02%,12,0.02%,2,0,-,libnativedisplay.so,libnativedisplay.so
+<unknown code in libsensor.so>,9,0.02%,88,0.17%,1,0,-,libsensor.so,libsensor.so
+<unknown code in libGLESv2.so>,8,0.02%,8,0.02%,1,0,-,libGLESv2.so,libGLESv2.so
+<unknown code in libsync.so>,7,0.01%,77,0.15%,6,0,-,libsync.so,libsync.so
+<unknown code in libartpalette-system.so>,5,< 0.01%,15,0.03%,2,0,-,libartpalette-system.so,libartpalette-system.so
+<unknown code in libnetd_client.so>,5,< 0.01%,91,0.18%,1,0,-,libnetd_client.so,libnetd_client.so
+<unknown code in libopenjdk.so>,5,< 0.01%,5,< 0.01%,1,0,-,libopenjdk.so,libopenjdk.so
+<unknown code in libnativewindow.so>,4,< 0.01%,8,0.02%,1,0,-,libnativewindow.so,libnativewindow.so
+<unknown code in libartpalette.so>,3,< 0.01%,3,< 0.01%,2,0,-,libartpalette.so,libartpalette.so
+<unknown code in libartbase.so>,,,1,< 0.01%,1,0,-,libartbase.so,libartbase.so
+<unknown code in libjavacore.so>,,,1,< 0.01%,1,0,-,libjavacore.so,libjavacore.so
+<unknown code in libnativehelper.so>,,,1,< 0.01%,1,0,-,libnativehelper.so,libnativehelper.so
+<unknown code in libsigchain.so>,,,13,0.03%,1,0,-,libsigchain.so,libsigchain.so

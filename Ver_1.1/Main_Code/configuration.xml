@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations revision="3" gpu_public_name="Mali-G715" streamline_version="960">
+    <configuration counter="ARM_Mali-G715_GPU_ITER_ACTIVE"/>
+    <configuration counter="ARM_Mali-G715_L2_READ_LOOKUP"/>
+    <configuration counter="ARM_Mali-G715_L2_EXT_WRITE"/>
+    <configuration counter="ARM_Mali-G715_L2_WRITE_LOOKUP"/>
+    <configuration counter="ARM_Mali-G715_L2_EXT_READ"/>
+    <configuration counter="ARM_Mali-G715_L2_EXT_WRITE_BEATS"/>
+    <configuration counter="ARM_Mali-G715_L2_EXT_READ_BEATS"/>
+    <configuration counter="ARMv9_Cortex_X3_ccnt" event="0x11"/>
+    <configuration counter="ARMv9_Cortex_A715_cnt0" event="0x11"/>
+    <configuration counter="ARMv8_Cortex_A510_cnt0" event="0x11"/>
+    <configuration counter="ARMv9_Cortex_X3_cnt0" event="0x14"/>
+    <configuration counter="ARMv9_Cortex_A715_cnt1" event="0x14"/>
+    <configuration counter="ARMv8_Cortex_A510_cnt1" event="0x14"/>
+    <configuration counter="ARMv9_Cortex_X3_cnt1" event="0x4"/>
+    <configuration counter="ARMv9_Cortex_A715_cnt2" event="0x4"/>
+    <configuration counter="ARMv8_Cortex_A510_cnt2" event="0x4"/>
+</configurations>
