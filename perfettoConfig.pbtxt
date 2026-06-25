@@ -1,0 +1,15 @@
+buffers: {
+  size_kb: 1024
+}
+
+duration_ms:240000
+
+data_sources: {
+    config {
+        name: "android.power"
+        android_power_config {
+            battery_poll_ms: 200
+            collect_power_rails: true
+    }
+  }
+}
